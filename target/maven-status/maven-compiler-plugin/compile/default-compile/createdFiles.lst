@@ -1,0 +1,8 @@
+pl\sda\zamowienia\Product.class
+pl\sda\zamowienia\Category.class
+pl\sda\zamowienia\AgeConsumerException.class
+pl\sda\zamowienia\Main.class
+pl\sda\zamowienia\NameProductException.class
+pl\sda\zamowienia\Customer.class
+pl\sda\zamowienia\Order.class
+pl\sda\zamowienia\EmailException.class
